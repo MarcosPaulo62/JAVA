@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="VariaveisTiposEOperadores" />
+        <module name="EstruturaWhile" />
+        <module name="LeituraGravacao" />
+        <module name="EstruturaCondicionalEscolha" />
+        <module name="Heranca" />
+        <module name="Ex22" />
+        <module name="Exercicios" />
+        <module name="Ex02" />
+        <module name="Ex24" />
+        <module name="EstruturaCondicionalSe" />
+        <module name="Ex01" />
+        <module name="ex15" />
+        <module name="EstruturaPara" />
+        <module name="Classes" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="Classes" target="19" />
+      <module name="EstruturaCondicionalEscolha" target="19" />
+      <module name="EstruturaCondicionalSe" target="19" />
+      <module name="EstruturaPara" target="19" />
+      <module name="EstruturaWhile" target="19" />
+      <module name="Ex01" target="19" />
+      <module name="Ex02" target="19" />
+      <module name="ex15" target="19" />
+      <module name="Ex22" target="19" />
+      <module name="Ex24" target="19" />
+      <module name="Exercicios" target="19" />
+      <module name="Heranca" target="19" />
+      <module name="LeituraGravacao" target="19" />
+      <module name="VariaveisTiposEOperadores" target="19" />
+    </bytecodeTargetLevel>
+  </component>
+</project>

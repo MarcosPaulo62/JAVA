@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Classes/Classes.iml" filepath="$PROJECT_DIR$/Classes/Classes.iml" />
+      <module fileurl="file://$PROJECT_DIR$/EstruturaCondicionalEscolha/EstruturaCondicionalEscolha.iml" filepath="$PROJECT_DIR$/EstruturaCondicionalEscolha/EstruturaCondicionalEscolha.iml" />
+      <module fileurl="file://$PROJECT_DIR$/EstruturaCondicionalSe/EstruturaCondicionalSe.iml" filepath="$PROJECT_DIR$/EstruturaCondicionalSe/EstruturaCondicionalSe.iml" />
+      <module fileurl="file://$PROJECT_DIR$/EstruturaPara/EstruturaPara.iml" filepath="$PROJECT_DIR$/EstruturaPara/EstruturaPara.iml" />
+      <module fileurl="file://$PROJECT_DIR$/EstruturaWhile/EstruturaWhile.iml" filepath="$PROJECT_DIR$/EstruturaWhile/EstruturaWhile.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Ex01/Ex01.iml" filepath="$PROJECT_DIR$/Ex01/Ex01.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Ex02/Ex02.iml" filepath="$PROJECT_DIR$/Ex02/Ex02.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Ex22/Ex22.iml" filepath="$PROJECT_DIR$/Ex22/Ex22.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Ex24/Ex24.iml" filepath="$PROJECT_DIR$/Ex24/Ex24.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Exercicios/Exercicios.iml" filepath="$PROJECT_DIR$/Exercicios/Exercicios.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Heranca/Heranca.iml" filepath="$PROJECT_DIR$/Heranca/Heranca.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/JAVA.iml" filepath="$PROJECT_DIR$/.idea/JAVA.iml" />
+      <module fileurl="file://$PROJECT_DIR$/LeituraGravacao/LeituraGravacao.iml" filepath="$PROJECT_DIR$/LeituraGravacao/LeituraGravacao.iml" />
+      <module fileurl="file://$PROJECT_DIR$/VariaveisTiposEOperadores/VariaveisTiposEOperadores.iml" filepath="$PROJECT_DIR$/VariaveisTiposEOperadores/VariaveisTiposEOperadores.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ex15/ex15.iml" filepath="$PROJECT_DIR$/ex15/ex15.iml" />
+    </modules>
+  </component>
+</project>

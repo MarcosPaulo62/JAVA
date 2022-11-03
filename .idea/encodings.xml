@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/Classes/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Classes/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/EstruturaCondicionalEscolha/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/EstruturaCondicionalEscolha/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/EstruturaCondicionalSe/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/EstruturaCondicionalSe/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/EstruturaPara/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/EstruturaPara/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/EstruturaWhile/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/EstruturaWhile/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Ex01/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Ex01/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Ex02/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Ex02/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Ex22/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Ex22/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Ex24/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Ex24/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Exercicios/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Exercicios/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Heranca/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Heranca/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/LeituraGravacao/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/LeituraGravacao/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/VariaveisTiposEOperadores/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/VariaveisTiposEOperadores/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/ex15/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/ex15/src/main/resources" charset="UTF-8" />
+  </component>
+</project>

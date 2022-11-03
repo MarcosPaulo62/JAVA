@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="MavenProjectsManager">
+    <option name="originalFiles">
+      <list>
+        <option value="$PROJECT_DIR$/Ex01/pom.xml" />
+        <option value="$PROJECT_DIR$/Ex02/pom.xml" />
+        <option value="$PROJECT_DIR$/ex15/pom.xml" />
+        <option value="$PROJECT_DIR$/Ex22/pom.xml" />
+        <option value="$PROJECT_DIR$/Ex24/pom.xml" />
+        <option value="$PROJECT_DIR$/Classes/pom.xml" />
+        <option value="$PROJECT_DIR$/Heranca/pom.xml" />
+        <option value="$PROJECT_DIR$/Exercicios/pom.xml" />
+        <option value="$PROJECT_DIR$/EstruturaPara/pom.xml" />
+        <option value="$PROJECT_DIR$/EstruturaWhile/pom.xml" />
+        <option value="$PROJECT_DIR$/LeituraGravacao/pom.xml" />
+        <option value="$PROJECT_DIR$/EstruturaCondicionalSe/pom.xml" />
+        <option value="$PROJECT_DIR$/VariaveisTiposEOperadores/pom.xml" />
+        <option value="$PROJECT_DIR$/EstruturaCondicionalEscolha/pom.xml" />
+      </list>
+    </option>
+  </component>
+</project>

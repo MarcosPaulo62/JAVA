@@ -1,6 +1,5 @@
 package com.mycompany.classes;
 
-
 import java.util.Scanner;
 
 public class Classes {
