@@ -14,6 +14,7 @@ import java.awt.event.WindowAdapter;
 import java.awt.event.WindowEvent;
 import java.util.List;
 import javax.swing.DefaultListModel;
+import util.ButtonColumnCellRederer;
 import util.DeadlineColumnCellRederer;
 import util.TaskTableModel;
 
@@ -98,7 +99,6 @@ public class MainScreen extends javax.swing.JFrame {
         jTableTasks.setSelectionBackground(new java.awt.Color(153, 255, 153));
         jTableTasks.setSelectionMode(javax.swing.ListSelectionModel.SINGLE_SELECTION);
         jTableTasks.setShowGrid(false);
-        jTableTasks.setShowHorizontalLines(true);
         jTableTasks.addMouseListener(new java.awt.event.MouseAdapter() {
             public void mouseClicked(java.awt.event.MouseEvent evt) {
                 jTableTasksMouseClicked(evt);
@@ -455,6 +455,12 @@ public class MainScreen extends javax.swing.JFrame {
         
         jTableTasks.getColumnModel().getColumn(2)
                 .setCellRenderer(new DeadlineColumnCellRederer());
+        
+//        jTableTasks.getColumnModel().getColumn(4)
+//                .setCellRenderer(new ButtonColumnCellRederer("edit"));
+//        
+//        jTableTasks.getColumnModel().getColumn(5)
+//                .setCellRenderer(new ButtonColumnCellRederer("delete"));
         
         // Criando um sort automático para as colunas da table
         jTableTasks.setAutoCreateRowSorter(true);

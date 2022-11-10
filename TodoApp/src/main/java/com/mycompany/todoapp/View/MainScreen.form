@@ -30,7 +30,6 @@
               <JTableSelectionModel selectionMode="0"/>
             </Property>
             <Property name="showGrid" type="boolean" value="false"/>
-            <Property name="showHorizontalLines" type="boolean" value="true"/>
           </Properties>
           <Events>
             <EventHandler event="mouseClicked" listener="java.awt.event.MouseListener" parameters="java.awt.event.MouseEvent" handler="jTableTasksMouseClicked"/>
